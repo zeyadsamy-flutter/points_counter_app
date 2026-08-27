@@ -6,9 +6,7 @@ A clean, modular, and responsive Flutter application designed to track basketbal
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b218c2bf-493a-4e87-bbb1-a4f4a5971f89" alt="App Preview" width="350"/>
-</p>
+https://github.com/user-attachments/assets/b218c2bf-493a-4e87-bbb1-a4f4a5971f89
 
 ---
 
